@@ -4,11 +4,12 @@ A curated list of daily/weekly sources for staying up-to-date on data science.
 ## Blogs
 * https://deepmind.com/blog
 * https://openai.com/blog/
-* https://research.fb.com/category/data-science/
+* https://www.technologyreview.com/topic/artificial-intelligence/
 * https://thegradient.pub/
 * https://jonathan-hui.medium.com/
 * https://towardsdatascience.com/tagged/editors-pick
 * https://medium.com/@karpathy
+* https://research.fb.com/category/data-science/
 
 ## Podcasts
 * https://lexfridman.com/ai/
