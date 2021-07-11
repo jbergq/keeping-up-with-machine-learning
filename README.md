@@ -10,6 +10,7 @@ A curated list of daily/weekly sources for staying up-to-date on data science.
 * https://towardsdatascience.com/tagged/editors-pick
 * https://medium.com/@karpathy
 * https://research.fb.com/category/data-science/
+* https://karpathy.github.io/
 
 ## Podcasts
 * https://lexfridman.com/ai/
