@@ -11,6 +11,7 @@ A curated list of daily/weekly sources for staying up-to-date on data science.
 * https://medium.com/@karpathy
 * https://research.fb.com/category/data-science/
 * https://karpathy.github.io/
+* https://gradientdescent.co/
 
 ## Podcasts
 * https://lexfridman.com/ai/
