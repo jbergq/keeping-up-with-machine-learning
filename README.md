@@ -1,5 +1,5 @@
-# keeping-up-with-data-science
-A curated list of daily/weekly sources for staying up-to-date with data science.
+# keeping-up-with-machine learning
+A curated list of daily/weekly sources for staying up-to-date with machine learning and AI.
 
 ## Blogs
 * https://deepmind.com/blog
