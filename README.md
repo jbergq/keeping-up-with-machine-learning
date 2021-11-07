@@ -19,10 +19,10 @@ A curated list of daily/weekly sources for staying up-to-date with machine learn
 * https://www.stitcher.com/podcast/talking-machines/the-talking-machines
 * https://dataskeptic.com/
 
-# Video series
+## Video series
 * https://deepmind.com/learning-resources/deep-learning-lecture-series-2020
 
-# Courses/tutorials
+## Courses/tutorials
 * https://pytorch-lightning.readthedocs.io/en/latest/index.html
 * https://deepmind.com/learning-resources
 
