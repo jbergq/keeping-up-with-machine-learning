@@ -9,6 +9,7 @@ A curated list of daily/weekly sources for staying up-to-date with machine learn
 * https://towardsdatascience.com/tagged/editors-pick
 * https://jonathan-hui.medium.com/
 * https://thegradient.pub/
+* https://distill.pub/
 * https://karpathy.github.io/
 * https://gradientdescent.co/
 * https://research.fb.com/category/data-science/
