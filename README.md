@@ -36,5 +36,6 @@ A curated list of daily/weekly sources for staying up-to-date with machine learn
 * https://deepmind.com/learning-resources
 
 ## Other resources
+* https://scholar.google.com/
 * http://arxiv-sanity.com/
 * https://datatau.net/
