@@ -5,11 +5,11 @@ A curated list of daily/weekly sources for staying up-to-date with machine learn
 * https://medium.com/tag/machine-learning
 * https://medium.com/tag/data-science
 * https://medium.com/tag/deep-learning
-* https://medium.com/@karpathy
 * https://towardsdatascience.com/tagged/editors-pick
 * https://jonathan-hui.medium.com/
 * https://thegradient.pub/
 * https://distill.pub/
+* https://medium.com/@karpathy
 * https://karpathy.github.io/
 * https://gradientdescent.co/
 * https://research.fb.com/category/data-science/
