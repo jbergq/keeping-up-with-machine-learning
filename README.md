@@ -24,6 +24,8 @@ A curated list of daily/weekly sources for staying up-to-date with machine learn
 
 ## Papers
 * https://paperswithcode.com/
+* https://arxiv-sanity-lite.com/
+* https://scholar.google.com/
 
 ## Podcasts
 * https://lexfridman.com/ai/
@@ -37,8 +39,3 @@ A curated list of daily/weekly sources for staying up-to-date with machine learn
 ## Courses/tutorials
 * https://pytorch-lightning.readthedocs.io/en/latest/index.html
 * https://deepmind.com/learning-resources
-
-## Other resources
-* https://scholar.google.com/
-* http://arxiv-sanity.com/
-* https://datatau.net/
