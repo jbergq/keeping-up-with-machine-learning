@@ -5,6 +5,7 @@ A curated list of resources for staying up-to-date with machine learning and AI.
 * https://magazine.sebastianraschka.com/
 * https://jalammar.github.io/
 * https://www.deeplearning.ai/the-batch/
+* https://www.deeplearning.ai/the-batch/tag/research/
 * https://theaisummer.com/learn-ai/
 * https://medium.com/tag/machine-learning
 * https://medium.com/tag/data-science
